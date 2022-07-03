@@ -1,0 +1,5 @@
+dev:
+    host: database-1.cxhb1xp3zb51.eu-central-1.rds.amazonaws.com
+    database: kis_reports
+    user: admin
+    password: 876543211
